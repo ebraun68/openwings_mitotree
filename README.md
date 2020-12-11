@@ -39,6 +39,8 @@ Written out the order is:
  	4. Reference mitogenome (e.g., Passer_montanus_JX486030.gb)
 ```
 
-If you wish to use with data in NCBI SRA you must install SRA tools
+See the example control file for additional details. Note that it is possible to mix reads
+from SRA with local files of reads and to mix single end and paired end reads. Obviously, 
+you must install SRA tools if you wish to use data in the NCBI SRA 
 SRA tools: https://github.com/ncbi/sra-tools
 
