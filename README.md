@@ -28,13 +28,16 @@ This program reads a control file, which is simply a tab-delimted file with the 
 format:
 
 Outfile_name Read_type  Source  Reads/SRR#  Reference
-one file per line
+one file per line...
 
-# 	0. Outfile name (e.g., Atlapetes_gutturalis_UWMB93636)
-# 	1. Read type - S = Single end; P = Paired end
-# 	2. Source - S = SRA; otherwise the path to the file
-# 	3. Read file or SRR number
-# 	4. Reference mitogenome (e.g., Passer_montanus_JX486030.gb)
+```
+Written out the order is:
+ 	0. Outfile name (e.g., Atlapetes_gutturalis_UWMB93636)
+ 	1. Read type - S = Single end; P = Paired end
+ 	2. Source - S = SRA; otherwise the path to the file
+ 	3. Read file or SRR number
+ 	4. Reference mitogenome (e.g., Passer_montanus_JX486030.gb)
+```
 
 If you wish to use with data in NCBI SRA you must install SRA tools
 SRA tools: https://github.com/ncbi/sra-tools
