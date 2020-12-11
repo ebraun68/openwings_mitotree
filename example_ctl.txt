@@ -1,0 +1,17 @@
+Antilophia_galeata_2	P	/blue/braun/ebraun68/mitofinder_test	Antilophia-galeata-2	Tyrannus_savana_mt.gb
+Otus_elegans_KU_10975	P	S	SRR8217572	Otus_scops_NC_028162.gb
+Leptosomus_discolor_FMNH_449184	P	S	SRR8217573	Trogon_viridis_NC_011714.gb
+Harpactes_ardens_KU_26958	P	S	SRR8217574	Trogon_viridis_NC_011714.gb
+Euptilotis_neoxenus_AMNH_DOT11081	P	S	SRR8217575	Trogon_viridis_NC_011714.gb
+Harpactes_oreskios_KU_23185	P	S	SRR8217576	Trogon_viridis_NC_011714.gb
+Harpactes_erythrocephalus_KU_9970	P	S	SRR8217577	Trogon_viridis_NC_011714.gb
+Apaloderma_aequatoriale_KU_8461	P	S	SRR8217578	Trogon_viridis_NC_011714.gb
+Apalharpactes_mackloti_LSU_B49104	P	S	SRR8217579	Trogon_viridis_NC_011714.gb
+Ceyx_argentatus_KU_19269	P	S	SRR8217580	Alcedo_atthis_NC_035868.gb
+Berenicornis_comatus_AMNH_DOT14737	P	S	SRR8217581	Aceros_waldeni_NC_015085.gb
+Upupa_epops_KU_26612	P	S	SRR8217582	Upupa_epops_NC_028178.gb
+Trogon_violaceus_AMNH_DOT11951	P	S	SRR8217583	Trogon_viridis_NC_011714.gb
+Trogon_personatus_AMNH_DOT4266	P	S	SRR8217584	Trogon_viridis_NC_011714.gb
+Priotelus_temnurus_ANSP_5565	P	S	SRR8217585	Trogon_viridis_NC_011714.gb
+Priotelus_roseigaster_KU_6363	P	S	SRR8217586	Trogon_viridis_NC_011714.gb
+Pharomachrus_antisianus_LSU_B22870	P	S	SRR8217587	Trogon_viridis_NC_011714.gb
